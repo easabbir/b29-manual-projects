@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer and tester...
 
 # b29-manual-projects
 
